@@ -83,7 +83,7 @@
 .ColorScheme-Text { color:#dfdfdf; }
 .ColorScheme-ViewBackground {  }
 .ColorScheme-NegativeText { color:#f44336; }
-.ColorScheme-PositiveText { color:#4caf50; }
+.ColorScheme-PositiveText { color:#6dab74; }
 .ColorScheme-NeutralText { color:#ff9800; }
 </style>
   </defs>

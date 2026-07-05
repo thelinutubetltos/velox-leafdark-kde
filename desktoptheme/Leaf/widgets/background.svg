@@ -13,7 +13,7 @@
   <radialGradient id="radialGradient930" cx="982.909" cy="906.453" r="8.5" fx="982.909" fy="906.453" gradientTransform="matrix(1.6470857,-3.6293817e-6,3.6290452e-6,1.646933,-1551.9388,-1465.8648)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient925"/>
   <radialGradient id="radialGradient932" cx="984" cy="905.362" r="8.5" fx="984" fy="905.362" gradientTransform="matrix(-1.6470601,9.3332088e-6,-9.3336559e-6,-1.647139,1637.7156,1568.2469)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient925"/>
   <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NeutralText { color:#ff9800; }
+   .ColorScheme-Background {color:#181818; } .ColorScheme-ButtonBackground { color:#343434; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-ViewBackground { color:#242424; } .ColorScheme-NegativeText { color:#f44336; } .ColorScheme-PositiveText { color:#6dab74; } .ColorScheme-NeutralText { color:#ff9800; }
   </style>
  </defs>
  <g id="topleft">
